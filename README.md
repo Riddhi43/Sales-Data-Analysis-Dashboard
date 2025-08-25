@@ -5,8 +5,11 @@ An interactive Power BI dashboard that transforms raw sales data into actionable
 📊 **Project Overview**
 
 Objective: Analyse sales transaction data and deliver an interactive dashboard for informed business decisions.
+
 Data: Monthly sales transactions including location, customer, product, sales manager, and cost.
+
 Outcome: Clear insights for strategic decision-making and business growth.
+
 
 ✨ **Key Features**
 
